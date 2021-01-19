@@ -11,7 +11,7 @@ import PageNotFound from './components/pages/404'
 function App() {
   
   return (
-    <Router className="App">
+    <div className="App">
         <Switch>
           <Route exact path="/" component={MainPage} />
           <Route exact path="/images" component={Images} />
@@ -20,7 +20,7 @@ function App() {
           <Route exact path="/404" component={PageNotFound} />
           <Redirect to="/404" />
         </Switch>
-    </Router>
+    </div>
   );
 }
 
