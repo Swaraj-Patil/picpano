@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/picpano/static/css/main.63f01000.chunk.css",
-    "main.js": "/picpano/static/js/main.f39b2341.chunk.js",
-    "main.js.map": "/picpano/static/js/main.f39b2341.chunk.js.map",
+    "main.js": "/picpano/static/js/main.9c7cd50a.chunk.js",
+    "main.js.map": "/picpano/static/js/main.9c7cd50a.chunk.js.map",
     "runtime-main.js": "/picpano/static/js/runtime-main.e28c4c27.js",
     "runtime-main.js.map": "/picpano/static/js/runtime-main.e28c4c27.js.map",
     "static/js/2.4aab94f9.chunk.js": "/picpano/static/js/2.4aab94f9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e28c4c27.js",
     "static/js/2.4aab94f9.chunk.js",
     "static/css/main.63f01000.chunk.css",
-    "static/js/main.f39b2341.chunk.js"
+    "static/js/main.9c7cd50a.chunk.js"
   ]
 }
