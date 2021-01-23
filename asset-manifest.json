@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/picpano/static/css/main.13cd46a8.chunk.css",
-    "main.js": "/picpano/static/js/main.9e9617fa.chunk.js",
-    "main.js.map": "/picpano/static/js/main.9e9617fa.chunk.js.map",
+    "main.css": "/picpano/static/css/main.56671be8.chunk.css",
+    "main.js": "/picpano/static/js/main.4bb35aba.chunk.js",
+    "main.js.map": "/picpano/static/js/main.4bb35aba.chunk.js.map",
     "runtime-main.js": "/picpano/static/js/runtime-main.e28c4c27.js",
     "runtime-main.js.map": "/picpano/static/js/runtime-main.e28c4c27.js.map",
-    "static/js/2.1dcadf2f.chunk.js": "/picpano/static/js/2.1dcadf2f.chunk.js",
-    "static/js/2.1dcadf2f.chunk.js.map": "/picpano/static/js/2.1dcadf2f.chunk.js.map",
+    "static/js/2.c26eff80.chunk.js": "/picpano/static/js/2.c26eff80.chunk.js",
+    "static/js/2.c26eff80.chunk.js.map": "/picpano/static/js/2.c26eff80.chunk.js.map",
     "index.html": "/picpano/index.html",
-    "static/css/main.13cd46a8.chunk.css.map": "/picpano/static/css/main.13cd46a8.chunk.css.map",
-    "static/js/2.1dcadf2f.chunk.js.LICENSE.txt": "/picpano/static/js/2.1dcadf2f.chunk.js.LICENSE.txt",
+    "static/css/main.56671be8.chunk.css.map": "/picpano/static/css/main.56671be8.chunk.css.map",
+    "static/js/2.c26eff80.chunk.js.LICENSE.txt": "/picpano/static/js/2.c26eff80.chunk.js.LICENSE.txt",
     "static/media/cover2.986be3cf.jpg": "/picpano/static/media/cover2.986be3cf.jpg",
     "static/media/login.f8c8494b.jpg": "/picpano/static/media/login.f8c8494b.jpg",
     "static/media/App.css": "/picpano/static/media/login2.1cfcefea.jpg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e28c4c27.js",
-    "static/js/2.1dcadf2f.chunk.js",
-    "static/css/main.13cd46a8.chunk.css",
-    "static/js/main.9e9617fa.chunk.js"
+    "static/js/2.c26eff80.chunk.js",
+    "static/css/main.56671be8.chunk.css",
+    "static/js/main.4bb35aba.chunk.js"
   ]
 }
